@@ -1,4 +1,4 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+This blog documents my exploration into deep learning. Hopefully it will result a finished project. It will also contain a mixture of random insights and rants of a grumpy old man. I will try not to be politically incorrect since I am some sort of judge.
 
